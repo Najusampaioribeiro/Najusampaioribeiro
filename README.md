@@ -2,7 +2,7 @@
 Meu nome é Ana Júlia
 
 
-- 🔭 I’m currently working on desenvolver projetos
+- 🔭 I’m currently estudando no desenvolvimento de projetos pela Alura
 - 🌱 I’m currently learning a como programar 
 - 🤔 I’m looking for help with variados projetos
 - 📫 How to reach me: anajuliasilvasampaio17@gmail.com
