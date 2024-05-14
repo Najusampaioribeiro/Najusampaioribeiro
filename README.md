@@ -4,7 +4,7 @@ Meu nome é Ana Júlia
 may the force be with you!! 🌃
 
 
-- 🔭 Atualmente estou estudando em como desenvolver projetos pela Alura
+- 🔭 Atualmente estudando em como desenvolver projetos pelo Alura
 - 🌱 usualmente sigo aprendendo a como programar 
 - 🤔 Estou a procura de ajuda com variados projetos
 - 📫 How to reach me: anajuliasilvasampaio17@gmail.com
